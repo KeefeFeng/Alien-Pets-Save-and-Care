@@ -1,0 +1,9 @@
+[
+  {
+    "BGM": 100,
+    "SFX": 100,
+    "Parent Control": true,
+    "Time Limit": null,
+    "Revive Pet": false
+  }
+]

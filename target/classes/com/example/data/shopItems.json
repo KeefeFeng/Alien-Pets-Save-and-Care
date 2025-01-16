@@ -1,0 +1,48 @@
+{
+  "Food":[
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "A-a-a-a-a-a-a-ahhhhhhhhh-pple",
+      "type": "Food",
+      "price": 10000000,
+      "happinessMod": 5,
+      "hungerMod": 20,
+      "sleepMod": 0
+    },
+    {
+      "id": 2,
+      "name": "Orange",
+      "description": "PDiddy",
+      "type": "Food",
+      "price": 5,
+      "happinessMod": 5,
+      "hungerMod": 20,
+      "sleepMod": 0
+    }
+  ],
+  "Toy": [
+    {
+      "id": 2,
+      "name": "Bawll",
+      "description": "it bawll",
+      "type": "Toy",
+      "price": 15,
+      "happinessMod": 10,
+      "hungerMod": -5,
+      "sleepMod": 0
+    }
+  ],
+  "Bedding": [
+      {
+        "id": 3,
+        "name": "Eepy Maker",
+        "description": "Makes Eepy",
+        "type": "Bedding",
+        "price": 25,
+        "happinessMod": 5,
+        "hungerMod": 0,
+        "sleepMod": 15
+    }
+  ]
+}

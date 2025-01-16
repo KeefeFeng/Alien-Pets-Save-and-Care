@@ -1,0 +1,10 @@
+.shop-item-label {
+    -fx-font-size: 16px;
+    -fx-padding: 10px;
+    -fx-background-color: #FFDAB9; /* Light peach color */
+    -fx-border-radius: 15px;
+    -fx-background-radius: 15px;
+    -fx-text-fill: #5D5C61;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.25), 5, 0, 0, 1);
+}

@@ -1,0 +1,22 @@
+{
+  "Pet": {
+    "name": "cat",
+    "type": "Cat",
+    "isDepressed": false,
+    "isSleeping": false,
+    "isStarving": false,
+    "isSick": false,
+    "isObey": false,
+    "isDead": false,
+    "health": 100,
+    "sleep": 100,
+    "hunger": 100,
+    "happiness": 100
+  },
+  "timePlayed": 0,
+  "money": 100,
+  "inventory": [],
+  "transactionLog": [],
+  "saveFileName": "src/main/java/com/example/data/sf3.json",
+  "saveFileNum": 0
+}

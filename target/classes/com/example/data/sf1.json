@@ -1,0 +1,22 @@
+{
+  "Pet": {
+    "name": "Alen",
+    "type": "Seal",
+    "isDepressed": true,
+    "isSleeping": false,
+    "isStarving": false,
+    "isSick": false,
+    "isObey": false,
+    "isDead": false,
+    "health": 50,
+    "sleep": 80,
+    "hunger": 20,
+    "happiness": 100
+  },
+  "timePlayed": 0,
+  "money": 69,
+  "inventory": [],
+  "transactionLog": [],
+  "saveFileName": "src/main/java/com/example/data/sf1.json",
+  "saveFileNum": 1
+}
